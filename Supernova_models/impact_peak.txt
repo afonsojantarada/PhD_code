@@ -1,1 +1,5 @@
-
+In this folder it is possible to evalutate the impact of the maximum value for  p-isotope abundances, comparing the value of X_max with sum X, for M > M_cut. 4 different models will be analysed :
+1) M = 15 M_sun | Z = 0.01
+2) M = 20 M_sun | Z = 0.01
+3) M = 15 M_sun | Z = 0.02
+4) M = 20 M_sun | Z = 0.02
